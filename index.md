@@ -2,50 +2,26 @@
 layout: page
 ---
 
-# About Me
+## 李振洲
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://Lizhenzhou-szu.github.com/backup/lzz1.png)" class="floatpic">
 
-Here is **Hanlin Cai** [(Lance, 蔡汉霖)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
+<br>深圳市第二人民医院超声科党支部书记兼副主任，医学博士、主任医师、硕士研究生导师，安徽医科大学兼职教授，深圳大学副教授。美国Drexel大学医学院访问学者（1年）。主要研究方向是肌骨、心血管、浅表器官疾病超声诊断及肌骨系统疼痛介入治疗、超声分子影像等临床及相关基础研究工作。主持国家自然科学基金面上项目1项，广东省及深圳市科研课题5项。第一/通讯作者发表专业学术论文36篇，其中SCl收录21篇，最高影响因子17.873。参编/翻译《中华肌骨超声学》等著作5部。承担本科生《医学影像学》教学工作。培养硕士11人。
 
-I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Prof. Ozgur Akan](https://oba.eco/), and advised by [Prof. Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home). My research is supported by the Cambridge Trust and CSC Scholarships. Previously, I had the privilege of conducting summer research with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
-
-Prior to joining Cambridge, I worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Additionally, I was honored to be selected as an outstanding undergraduate scholar at leading AI conferences, including AAAI 2024 and SIGKDD 2024.
-
-I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **hc663 [at] cam.ac.uk**
-
----
-
-## Research Interests
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Internet of Agents
-- Wireless Communication
-- Federated Learning
-- Graph Representation
-
----
-
-## News and Updates
-
-- **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-
-
----
+## 学术任职
 
 <br>
 
-## Chat with me
+> 中国医师协会超声医师分会肌骨超声专业委员会                     委员
+> 中国超声医学工程学会肌骨超声专业委员会常务委员兼青年委员会      副主任委员
+> 中国超声医学工程学会超声心动图专业委员会                       委员
+> 中国超声心动图学会                                         理事
+> 广东省康复医学会超声介入康复分会                              理事
+> 广东省医疗行业协会超声医学创新与发展管理分会                    委员
+> 广东省抗癌协会肿瘤超声专业委员会                              委员
+> 深圳市医学会超声医学专业委员会青年委员会                     副主任委员
+> 深圳市超声医学工程学会肌骨超声专业委员会                     副主任委员
+> 深圳市医师协会超声专业委员会                                 理事
+> 深圳市康复医学会疼痛康复专业委员会                          副主任委员
 
-**Dec 2025:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Feel free to reach out!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+<br>最后，若您有需要我协助的事项，或者您愿意向我分享您的想法，我都非常欢迎学术交流与合作。您可以通过邮箱 **lizhenzhou2004[@]126.com** 与我联系。**（请务必标注姓名、单位或来意，以便后续交流，非常感谢！）**
