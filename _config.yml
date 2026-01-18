@@ -13,12 +13,12 @@ url: https://Lizhenzhou-szu.github.com
 # --------------------------------------------------
 owner:
   name: ZhenZhou Li
-  avatar : "lzz.jpg"
+  # avatar : "lzz.jpg"
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: lizhenzhou2004@126.com
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-  location         : "GuangDong,ShenZhen"
-  employer         : "Shen Zhen University"
+  location : "Guang Dong，Shen Zhen"
+  employer : "Shen Zhen University"
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # github: GuangLun2000
