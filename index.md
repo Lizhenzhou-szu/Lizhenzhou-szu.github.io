@@ -55,3 +55,10 @@ body.page { background: #f3f7f8; color: #253a45; }
 .page .footer-wrap { color: #60777e; }
 @media (max-width: 600px) { .page .article-wrap { padding: 26px 22px; border-radius: 12px; } .page .article-wrap > h2:first-child { font-size: 1.8em; } .page .article-wrap .floatpic { width: 130px; margin-left: 16px; } }
 </style>
+
+
+<style>
+.page #main { width: calc(100% - 48px); max-width: 1100px; margin: 32px auto; }
+.page #main article { display: block; float: none; width: 100%; margin: 0 auto 2em; }
+@media (max-width: 600px) { .page #main { width: calc(100% - 24px); margin: 16px auto; } }
+</style>
